@@ -79,4 +79,4 @@ Since the dataset is fetched dynamically from a public GitHub repository, you do
 
 
 ## 📬 Contact
-Created by Ahmedou Mohamed Lemine - feel free to connect with me on LinkedIn or check out my other data science projects!
+Created by **Ahmedou Mohamed Lemine** - feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedou-mohamed-lemine-84923824a?utm_source=share_via&utm_content=profile&utm_medium=member_android) or check out my other data science projects!
