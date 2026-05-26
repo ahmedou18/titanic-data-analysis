@@ -1,5 +1,3 @@
-
-```markdown
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -75,21 +73,10 @@ Since the dataset is fetched dynamically from a public GitHub repository, you do
    ```bash
    git clone [https://github.com/ahmedou18/titanic-data-analysis.git](https://github.com/ahmedou18/titanic-data-analysis.git)
 
-```
+2. Open the .ipynb file in Google Colab or Jupyter Notebook.
 
-2. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**.
 3. Run all cells sequentially to generate the data frames, statistical summaries, and interactive plots.
 
----
 
 ## 📬 Contact
-
-Created by **[Ahmedou Mohamed Lemine]** - feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedou-mohamed-lemine-84923824a?utm_source=share_via&utm_content=profile&utm_medium=member_android) or check out my other data science projects!
-
-```
-
-### 💡 What to update before saving:
-* Change `YOUR_USERNAME` and `YOUR_REPO_NAME` in the clone command to match yours.
-* Replace `[Your Name Here]` and `YOUR_LINKEDIN_URL` at the bottom with your real info so recruiters can find you.
-
-```
+Created by Ahmedou Mohamed Lemine - feel free to connect with me on LinkedIn or check out my other data science projects!
